@@ -1,0 +1,6 @@
+REGEDIT4
+[HKEY_CLASSES_ROOT\ssh]
+[HKEY_CLASSES_ROOT\ssh\shell]
+[HKEY_CLASSES_ROOT\ssh\shell\open]
+[HKEY_CLASSES_ROOT\ssh\shell\open\command]
+@="\"D:\\ssh\\putty_ssh.bat\" %1"
